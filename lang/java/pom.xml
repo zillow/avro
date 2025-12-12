@@ -51,7 +51,7 @@
     <velocity.version>2.3</velocity.version>
     <maven.version>3.8.1</maven.version>
     <ant.version>1.10.11</ant.version>
-    <commons-cli.version>1.4</commons-cli.version>
+    <commons-cli.version>1.11.0</commons-cli.version>
     <commons-compress.version>1.21</commons-compress.version>
     <commons-lang.version>3.12.0</commons-lang.version>
     <tukaani.version>1.9</tukaani.version>
@@ -341,7 +341,7 @@
                         </goals>
                       </pluginExecutionFilter>
                       <action>
-                        <ignore></ignore>
+                        <ignore/>
                       </action>
                     </pluginExecution>
                     <pluginExecution>
@@ -354,7 +354,7 @@
                         </goals>
                       </pluginExecutionFilter>
                       <action>
-                        <ignore />
+                        <ignore/>
                       </action>
                     </pluginExecution>
                     <pluginExecution>
@@ -367,7 +367,7 @@
                         </goals>
                       </pluginExecutionFilter>
                       <action>
-                        <ignore />
+                        <ignore/>
                       </action>
                     </pluginExecution>
                     <pluginExecution>
@@ -380,7 +380,7 @@
                         </goals>
                       </pluginExecutionFilter>
                       <action>
-                        <ignore />
+                        <ignore/>
                       </action>
                     </pluginExecution>
                     <pluginExecution>
@@ -395,7 +395,7 @@
                         </goals>
                       </pluginExecutionFilter>
                       <action>
-                        <ignore />
+                        <ignore/>
                       </action>
                     </pluginExecution>
                   </pluginExecutions>
